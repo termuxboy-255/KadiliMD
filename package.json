@@ -1,5 +1,5 @@
 {
-  "name": "BLUEXDEMON-V4",
+  "name": "KADILIGHOST",
   "version": "4.3.0",
   "description": "Simple WhatsApp bot with multi-device support.",
   "main": "index.js",
@@ -11,7 +11,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "BLUE",
+  "author": "KADILI",
   "license": "MIT",
   "engines": {
     "node": ">=20.x"
